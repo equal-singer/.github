@@ -1,4 +1,12 @@
-## Hi there 👋
+# Equal Singer
+## Diffusion model based Ai singing voice synthesis system
+한국어를 지원하는 가창 AI 프로그램을 Diffusion 모델을 기반으로 하는 Singing Voice Synthesis (SVS) 모델인 DiffSinger 모델을 바탕으로 한국어 대응이 가능한 SVS 모델을 구현하는 프로젝트 입니다.
+
+## 팀소개
+- Kurt Kim
+- Noel Kim
+- Dain Kim
+- Hyunhi Kim
 
 <!--
 
